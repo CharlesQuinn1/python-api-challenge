@@ -10,5 +10,6 @@ Output File Location:
   1. cities.csv located in ouput_data folder
   
 Program:
-  WeatherPy.ipynb gets data from the OpenWeatherMap API to retrieve weather data using the list of cities from the cities.csv file provided in the starter code and creates a series of scatter plots to show correlation in weather data between northern and southern hemisphere.
-  VacationPy.ipynb gets data from the Geoapify API to retrieve geography data using the list of cities from the cities.csv file provided in the starter code and creates a world map with cities from csv file highlighted, and a world map highlighting the first hotel from a sample of preferred cities.
+  1. WeatherPy.ipynb gets data from the OpenWeatherMap API to retrieve weather data using the list of cities from the cities.csv file provided in the starter code and creates a series of scatter plots to show correlation in weather data between northern and southern hemisphere.
+
+  3. VacationPy.ipynb gets data from the Geoapify API to retrieve geography data using the list of cities from the cities.csv file provided in the starter code and creates a world map with cities from csv file highlighted, and a world map highlighting the first hotel from a sample of preferred cities.
